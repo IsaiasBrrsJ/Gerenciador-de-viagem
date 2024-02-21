@@ -1,0 +1,16 @@
+D:\isaias\GerenciadorDeViagemApi.Application\bin\Debug\net7.0\GerenciadorDeViagemApi.Application.deps.json
+D:\isaias\GerenciadorDeViagemApi.Application\bin\Debug\net7.0\GerenciadorDeViagemApi.Application.dll
+D:\isaias\GerenciadorDeViagemApi.Application\bin\Debug\net7.0\GerenciadorDeViagemApi.Application.pdb
+D:\isaias\GerenciadorDeViagemApi.Application\obj\Debug\net7.0\GerenciadorDeViagemApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\isaias\GerenciadorDeViagemApi.Application\obj\Debug\net7.0\GerenciadorDeViagemApi.Application.AssemblyInfoInputs.cache
+D:\isaias\GerenciadorDeViagemApi.Application\obj\Debug\net7.0\GerenciadorDeViagemApi.Application.AssemblyInfo.cs
+D:\isaias\GerenciadorDeViagemApi.Application\obj\Debug\net7.0\GerenciadorDeViagemApi.Application.csproj.CoreCompileInputs.cache
+D:\isaias\GerenciadorDeViagemApi.Application\obj\Debug\net7.0\GerenciadorDeViagemApi.Application.sourcelink.json
+D:\isaias\GerenciadorDeViagemApi.Application\obj\Debug\net7.0\GerenciadorDeViagemApi.Application.dll
+D:\isaias\GerenciadorDeViagemApi.Application\obj\Debug\net7.0\refint\GerenciadorDeViagemApi.Application.dll
+D:\isaias\GerenciadorDeViagemApi.Application\obj\Debug\net7.0\GerenciadorDeViagemApi.Application.pdb
+D:\isaias\GerenciadorDeViagemApi.Application\obj\Debug\net7.0\ref\GerenciadorDeViagemApi.Application.dll
+D:\isaias\GerenciadorDeViagemApi.Application\bin\Debug\net7.0\GerenciadorDeViagemApi.Core.dll
+D:\isaias\GerenciadorDeViagemApi.Application\bin\Debug\net7.0\GerenciadorDeViagemApi.Core.pdb
+D:\isaias\GerenciadorDeViagemApi.Application\obj\Debug\net7.0\GerenciadorDeViagemApi.Application.csproj.AssemblyReference.cache
+D:\isaias\GerenciadorDeViagemApi.Application\obj\Debug\net7.0\GerenciadorDeViagemApi.Application.csproj.CopyComplete

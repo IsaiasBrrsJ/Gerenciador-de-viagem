@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "f39ohbuavYJR91o4cQQMqNURU4m8j92iNZo4lGouQm61TfYMvQ4BlpxRP1SB4KyNmDk1IHtwAl0dLp7GVuJWGg==",
+  "success": true,
+  "projectFilePath": "D:\\isaias\\GerenciadorDeViagemApi.Application\\GerenciadorDeViagemApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a897212\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\a897212\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\a897212\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\a897212\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\a897212\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\a897212\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
