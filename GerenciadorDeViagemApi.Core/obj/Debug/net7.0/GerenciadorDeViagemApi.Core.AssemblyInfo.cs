@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorDeViagemApi.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+932ef0f8814a367a775c089799739abbb294fa76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ff9fac1019be1e9f4e28686f9d887b9a58e9d89")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorDeViagemApi.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorDeViagemApi.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace GerenciadorDeViagemApi.Core.Repositories
 {
-    public interface IUsuarioRepository
+    public interface IUserRepository
     {
         Task<int> AddUserAsync(Usuario usuario);
         Task<UserDTO> GetByIdUserAsync(long matricula);
