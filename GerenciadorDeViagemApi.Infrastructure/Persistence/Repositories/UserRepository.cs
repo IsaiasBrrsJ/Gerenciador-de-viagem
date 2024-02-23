@@ -9,12 +9,12 @@ using Microsoft.Extensions.Configuration;
 
 namespace GerenciadorDeViagemApi.Infrastructure.Persistence.Repositories
 {
-    public class UsuarioRepository : IUsuarioRepository
+    public class UserRepository : IUserRepository
     {
         private readonly GerenciadorDeViagemDbContext _dbContext = default!;
 
         private IConfiguration _Configuration { get; init; }
-        public UsuarioRepository(GerenciadorDeViagemDbContext dbContext, IConfiguration configuration)
+        public UserRepository(GerenciadorDeViagemDbContext dbContext, IConfiguration configuration)
         {
             _dbContext = dbContext;
             _Configuration = configuration;

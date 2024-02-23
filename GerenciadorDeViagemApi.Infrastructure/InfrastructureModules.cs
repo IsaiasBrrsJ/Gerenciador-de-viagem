@@ -38,7 +38,7 @@ namespace GerenciadorDeViagemApi.Infrastructure
         private static IServiceCollection AddDependenciInjection(this IServiceCollection services)
         {
 
-            services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<ITravelRepository, TravelRepositry>();
             services.AddScoped<IHashPasswordServices, HashPasswordServices>();
             services.AddScoped<IAuthServices, AuthServices>();
